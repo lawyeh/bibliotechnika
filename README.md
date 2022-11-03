@@ -1,3 +1,3 @@
 # bibliotechnika🏎🔥🔥🔥💨 
-### a motorsports library
+### motorsports library
 https://api-sports.io/documentation/formula-1/v1
